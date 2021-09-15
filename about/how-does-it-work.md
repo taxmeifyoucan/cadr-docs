@@ -41,7 +41,7 @@ The most important non-trivial case is changing path settings. The proper way to
 1. Stop the service using `systemctl`. E.g. `systemctl stop bitcoin-mainnet`
 2. Move the relevant files. E.g. `mv /var/lib/bitcoin-mainnet /big-hdd/bitcoin-mainnet`
 3. Run `dpkg-reconfigure` and change the specific setting E.g. `dpkg-reconfigure bitcoin-mainnet`
-4. The service should auto-start again. You can check it by running `systemctl status`.
+4. The service should auto-start again. You can check it by running `systemctl status bitcoin-mainnet`.
 
 If you didn't find the setting in debconf, you must look if it can be set by installing a special package. This is not done often, only in cases a package might need another package to have certain feature. The list of packages that control specific settings:
 
