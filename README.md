@@ -8,7 +8,8 @@ description: >-
 
 **Cryptoanarchy Deb Repository \(CADR\)** is open, secure and easy way how to run Bitcoin software and other cryptoanarchy tools.
 
-![](.gitbook/assets/logo.svg)
+![image](https://user-images.githubusercontent.com/61149543/135668774-11050f9e-d912-4ba7-81e4-5b6e76951766.png)
+
 
 ## 🔎 What you can find here: <a id="what-youll-find-here"></a>
 
