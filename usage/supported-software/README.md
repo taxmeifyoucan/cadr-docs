@@ -42,7 +42,7 @@ Apps are by default accessible via tor onion service. Hostname can be found in `
 Let's look how to install all applications and features in **one command**:
 
 ```text
-apt install selfhost-dashboard thunderhub ridetheln btcpayserver transmuter electrs btc-rpc-explorer 
+apt install selfhost-dashboard thunderhub ridetheln btcpayserver btc-transmuter electrs btc-rpc-explorer
 ```
 
 Installing everything you need with one command like this makes sure all configuration is satisfied and doesn't have to change in the future \(maybe trigger Bitcoin resync\). Plus now you are ready to use full power of all Bitcoin weapons without ****further hesitation. 
